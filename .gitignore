@@ -1,0 +1,11 @@
+.DS_Store
+
+whz/
+PPT/
+HW/HW3/*.pcapng
+HW/HW3/capture/
+
+experiment/
+experiment/2021ComputerNetwork/
+experiment/whz/
+experiment/ppt/
